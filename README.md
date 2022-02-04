@@ -1,2 +1,2 @@
 # AIRLINE-FARE-PREDICTION
-Prediction of Airline price in India.
+Prediction of Airline ticket price in India.
