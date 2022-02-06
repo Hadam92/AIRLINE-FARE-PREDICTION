@@ -13,8 +13,11 @@ Three different statistical learning techniques was used to fit the model.Of the
 After cross validation using random grid search to find the best parameters for our random forest model. It came out that our model was able to explain 96.5% of out test data.
 In addition,the important features that affect our model the most are:
 1.Total number of stops during the flight.
+
 2.Duration .
+
 3.Date(Day of the month).
+
 4.Airline .
 
    
