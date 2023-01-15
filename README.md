@@ -2,7 +2,7 @@
 Prediction of Airline ticket price in India.
 
 # OVERVIEW 
-The project used something variables such duration of flight,
+The project used some variables such duration of flight,
 Source and Destination of flight,the Airline carrier,
 The date and month the flight and number of total stops within 
 the trip to predict the Airline ticket price in India for the year 2019.
